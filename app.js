@@ -146,6 +146,7 @@ function agregarAmigo() {
     mostrarAmigos();
 }
 
+
 // Función para mostrar la lista de amigos
 function mostrarAmigos() {
     let lista = document.getElementById('listaAmigos');
